@@ -14,6 +14,10 @@
     ],
     "sketch-assets-file": "sketch-assets/icons.sketch"
   },
+  "repository" : {
+    "type": "git",
+    "url": "git+https://github.com/noodlapp/noodl-sketch-plugin.git"
+  },
   "scripts": {
     "build": "skpm-build",
     "watch": "skpm-build --watch",
