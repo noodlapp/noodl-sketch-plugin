@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "name": "Noodl",
+  "author": "Noodl Team",
+  "identifier": "net.noodl.sketch.export",
+  "version": "1.0",
+  "description": "Noodl Export",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Noodl Export",
+      "script": "./plugin.js",
+      "identifier": "export",
+      "shortcut": "ctrl shift e"
+    }
+  ],
+  "menu": {
+    "items": ["export"]
+  }
+}

@@ -1,0 +1,17 @@
+# build artifacts
+noodl-plugin.sketchplugin
+
+# npm
+node_modules
+.npm
+npm-debug.log
+
+# mac
+.DS_Store
+
+# WebStorm
+.idea
+
+# sketch
+# sketch-assets
+sketch-assets/icons.sketch
